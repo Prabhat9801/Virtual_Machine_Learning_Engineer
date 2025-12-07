@@ -1,0 +1,9 @@
+langchain-groq
+langchain-community
+langchain-experimental
+sentence-transformers
+chromadb
+pandas
+matplotlib
+plotly
+tabulate
